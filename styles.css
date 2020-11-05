@@ -7,7 +7,7 @@ nav {
     background-color:#0392BF ;
 }
 header{
-    text-emphasis-color:  white;
+    text-emphasis-color: white;
 }
 a{
     text-decoration: none;
@@ -37,7 +37,7 @@ h3{
 }
 .icons{
     position: absolute;
-    top: 670px;
+    top: 600px;
 }
 
 .circles span{
